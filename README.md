@@ -1,9 +1,9 @@
 Multi-face-tracking-usingFairMOT
-基于FairMOT训练人脸跟踪模型，速度和性能都非常好
-repo里的模型精度不是最好的，如有需要重新训练。
-1.修改./src/lib/opts.py 118行--input-video 为自己的视频路径
-2.run demo.py 即可演示跟踪demo
-详见本人博客 https://blog.csdn.net/zengwubbb/article/details/108693096
+* 基于FairMOT训练人脸跟踪模型，速度和性能都非常好.
+* repo里的模型精度不是最好的，如有需要重新训练.
+* 1.修改./src/lib/opts.py 118行--input-video 为自己的视频路径.
+* 2.run demo.py 即可演示跟踪demo.
+* 详见本人博客 https://blog.csdn.net/zengwubbb/article/details/108693096.
 
 # FairMOT
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-simple-baseline-for-multi-object-tracking/multi-object-tracking-on-2dmot15-1)](https://paperswithcode.com/sota/multi-object-tracking-on-2dmot15-1?p=a-simple-baseline-for-multi-object-tracking)
