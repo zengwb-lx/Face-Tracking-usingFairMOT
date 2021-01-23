@@ -1,0 +1,16 @@
+2020-09-18-15-39: epoch: 1 |loss 5.077225 | hm_loss 0.113153 | wh_loss 1.185680 | off_loss 0.067900 | id_loss 4.058088 | time 6.833333 | 
+2020-09-18-15-46: epoch: 2 |loss 3.742025 | hm_loss 0.102305 | wh_loss 1.213761 | off_loss 0.067035 | id_loss 3.350189 | time 6.783333 | 
+2020-09-18-15-52: epoch: 3 |loss 2.899031 | hm_loss 0.088012 | wh_loss 1.138216 | off_loss 0.067169 | id_loss 2.924030 | time 6.683333 | 
+2020-09-18-15-59: epoch: 4 |loss 2.348665 | hm_loss 0.085017 | wh_loss 1.116001 | off_loss 0.066332 | id_loss 2.628434 | time 6.716667 | 
+2020-09-18-16-06: epoch: 5 |loss 1.920972 | hm_loss 0.072668 | wh_loss 1.098591 | off_loss 0.066340 | id_loss 2.408031 | time 6.783333 | 
+2020-09-18-16-13: epoch: 6 |loss 1.552782 | hm_loss 0.065476 | wh_loss 1.026660 | off_loss 0.066304 | id_loss 2.198686 | time 6.800000 | 
+2020-09-18-16-19: epoch: 7 |loss 1.267854 | hm_loss 0.062310 | wh_loss 1.037463 | off_loss 0.065455 | id_loss 2.004380 | time 6.766667 | 
+2020-09-18-16-26: epoch: 8 |loss 1.011118 | hm_loss 0.055560 | wh_loss 0.995691 | off_loss 0.065714 | id_loss 1.824774 | time 6.850000 | 
+2020-09-18-16-33: epoch: 9 |loss 0.845236 | hm_loss 0.059072 | wh_loss 0.991656 | off_loss 0.065148 | id_loss 1.685538 | time 6.866667 | 
+2020-09-18-16-40: epoch: 10 |loss 0.730775 | hm_loss 0.063283 | wh_loss 1.030262 | off_loss 0.064611 | id_loss 1.573101 | time 6.900000 | 
+2020-09-18-16-47: epoch: 11 |loss 0.521086 | hm_loss 0.048813 | wh_loss 0.880407 | off_loss 0.063871 | id_loss 1.425037 | time 6.783333 | 
+2020-09-18-16-54: epoch: 12 |loss 0.411614 | hm_loss 0.048475 | wh_loss 0.873786 | off_loss 0.063579 | id_loss 1.301932 | time 6.850000 | 
+2020-09-18-17-01: epoch: 13 |loss 0.373370 | hm_loss 0.054673 | wh_loss 0.903259 | off_loss 0.063426 | id_loss 1.234057 | time 6.766667 | 
+2020-09-18-17-07: epoch: 14 |loss 0.195133 | hm_loss 0.039112 | wh_loss 0.792352 | off_loss 0.062487 | id_loss 1.063762 | time 6.716667 | 
+2020-09-18-17-14: epoch: 15 |loss 0.158628 | hm_loss 0.036694 | wh_loss 0.846698 | off_loss 0.062711 | id_loss 0.995447 | time 6.866667 | 
+2020-09-18-17-21: epoch: 16 |loss -0.019677 | hm_loss 0.030982 | wh_loss 0.626531 | off_loss 0.059979 | id_loss 0.819238 | time 6.833333 | 
