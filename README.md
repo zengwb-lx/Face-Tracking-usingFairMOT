@@ -1,4 +1,4 @@
-Multi-face-tracking-usingFairMOT
+# Multi-face-tracking-usingFairMOT
 * 基于FairMOT训练人脸跟踪模型，速度和性能都非常好.
 * repo里的模型精度不是最好的，如有需要重新训练.
 * 1.修改./src/lib/opts.py 118行--input-video 为自己的视频路径.
